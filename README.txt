@@ -1,0 +1,1 @@
+THỎ BÔNG V4 – HÀNH TRÌNH RỪNG XANH\n\nGiải nén và mở index.html bằng trình duyệt. Không cần cài đặt hay Internet. Demo gồm cốt truyện 3 chặng, 9 phép cộng trong phạm vi 20, gợi ý làm tròn 10, biểu cảm và hoạt cảnh CSS. Chưa lưu tiến độ giữa các lần chơi.\n
